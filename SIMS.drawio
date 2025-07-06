@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Trang-1" id="_DSvrBgq9DPziZ6Z83gz">
-    <mxGraphModel>
+    <mxGraphModel dx="1668" dy="967" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WM8lZyNZV2qZbKPxRPnV-2" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="131" y="288" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WM8lZyNZV2qZbKPxRPnV-3" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="131" y="631" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WM8lZyNZV2qZbKPxRPnV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257" y="83" width="736" height="782" as="geometry" />
+        </mxCell>
+        <mxCell id="WM8lZyNZV2qZbKPxRPnV-6" value="SIMS-Student Information Management System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="411.5" y="45" width="427" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WM8lZyNZV2qZbKPxRPnV-7" value="Register Student&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="123" width="159" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="WM8lZyNZV2qZbKPxRPnV-10" value="Register Student&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="220" width="159" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="WM8lZyNZV2qZbKPxRPnV-11" value="Register Student&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="318" width="159" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="WM8lZyNZV2qZbKPxRPnV-12" value="Register Student&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="421" width="159" height="63" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
